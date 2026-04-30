@@ -27,11 +27,11 @@ I'm a Computer Science student passionate about building intelligent systems. I 
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
-| **AI/ML** | `Machine Learning` `Deep Learning` `NLP` `Computer Vision` |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=flat&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) |
+| **AI / ML** | `Machine Learning` `Deep Learning` `NLP` `Computer Vision` |
 | **LLM / RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) `FAISS` `Vector Databases` `Prompt Engineering` |
-| **Backend/Data** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) `Pandas` `EDA` |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) |
+| **Data Science** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) `Matplotlib` `Seaborn` `EDA` |
+| **App & Dev** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) |
 
 ---
 
@@ -43,6 +43,10 @@ I'm a Computer Science student passionate about building intelligent systems. I 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehacker4655&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=sai_charan_gontla&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
