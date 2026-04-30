@@ -38,15 +38,12 @@ I'm a Computer Science student passionate about building intelligent systems. I 
 ## 📊 Performance & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codehacker4655&show_icons=true&theme=tokyonight" alt="Sai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codehacker4655&show_icons=true&theme=tokyonight" height="170" alt="Sai's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehacker4655&layout=compact&theme=tokyonight" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codehacker4655&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=sai_charan_gontla&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-api.herokuapp.com/sai_charan_gontla" alt="LeetCode Stats" />
 </p>
 
 ---
